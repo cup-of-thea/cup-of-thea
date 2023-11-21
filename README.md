@@ -3,13 +3,15 @@
 
 ## A little piece of me in tech
 
-👀 I’m a 🏳️‍⚧️ trans woman engineer interested in PHP and Rust, and I wish to join strong and kind communities
+👀 I’m a woman engineer interested in C#, PHP and Rust, and I wish to join strong and kind communities
 
 🌱 I've been working for 7 years in PHP/Symfony/Laravel in web companies and tech companies in France
 
+❤️ I'm currently employed in a .NET environment since a couple of months
+
 💞️ I’m looking to start collaborating in open-source (PHP/Rust or else)
 
-📫 The best is to reach me here 😉
+📫 The best is to reach me [here](https://bento.me/thea) 😉
 
 ## Experience
 
