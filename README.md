@@ -24,8 +24,8 @@ I mostly want to join open-minded communities (🏳️‍⚧️ 🏳️‍🌈) 
 I fancy back-end, data-engineering and going out to tech conventions meeting people (😊) and advocating in things I trust.
 I prefer working with concepts and people rather than tools or languages, however, I have preferences like :
 
-<div style="display: flex">
-<img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-<img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-<img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,php,laravel,rust,elasticsearch,mysql,postgres,redis,mongodb,latex,tailwind,vim&perline=5" />
+  </a>
+</p>
