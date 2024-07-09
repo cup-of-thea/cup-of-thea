@@ -25,12 +25,7 @@ I fancy back-end, data-engineering and going out to tech conventions meeting peo
 I prefer working with concepts and people rather than tools or languages, however, I have preferences like :
 
 <div style="display: flex">
-<img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-<img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg" />
-
-<img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
-<img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> 
-<img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
-<img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
-<img width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
+<img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+<img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
 </div>
